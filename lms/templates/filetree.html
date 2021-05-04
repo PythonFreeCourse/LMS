@@ -14,7 +14,7 @@
       {%- if file.is_folder -%}
       icon hawcons-icon-folder">
       {%- else -%}
-      icon hawcons-icon-document-text hawcons-icon-file-{{ file.path.rsplit('.')[-1] | e }} file-icon">
+      icon hawcons-icon-document file-icon">
       {%- endif -%}
       </span>
       {% if not file.is_folder -%}
