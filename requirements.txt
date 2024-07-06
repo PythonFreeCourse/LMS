@@ -5,7 +5,7 @@ bandit==1.7.7
 bench-it==1.0.1
 billiard==4.2.0
 celery==5.3.6
-certifi==2024.2.2
+certifi==2024.7.4
 coverage==7.4.2
 debugpy==1.8.1
 defusedxml==0.7.1
